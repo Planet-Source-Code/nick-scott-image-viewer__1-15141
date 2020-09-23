@@ -1,0 +1,22 @@
+*********************************************************************************
+Slide Show v1.0
+Author: Nascott
+
+Slide Show has alot of things it can do, Add as many images as u want,
+add Bitmaps, Jpeg Files and GIF files, mix em up even
+You can add ALL of the image file listed with one click of a button
+One click remove item from list
+empty list with one click
+Auto start show on load
+Pause / Resume the show
+timer settings and so on.
+
+ENJOY!!
+
+*********************************************************************************
+
+Using:
+After setting everything, you should click the "Start the Slide Show" Button.
+
+During the Slide Show, You can Left click your mouse to Exit
+or you can Right click your mouse to Pause, or Resume the show!
